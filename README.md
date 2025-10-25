@@ -1,0 +1,2 @@
+# ssyarima.github
+web
